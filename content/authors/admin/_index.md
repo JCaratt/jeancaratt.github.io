@@ -113,7 +113,7 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Beca AUIP Màster URV para estudiantes del Máster interuniversitario en Mecánica de Fluidos Computacional 
+  - title: Beca AUIP Máster URV para estudiantes del Máster interuniversitario en Mecánica de Fluidos Computacional 
     url: https://www.auip.org/es/becas-auip/2602
     date: '2023-10-01'
     awarder: AUIP
@@ -124,10 +124,11 @@ awards:
     url: https://www.minenergia.gov.co/es/sala-de-prensa/noticias-index/conoce-los-ganadores-del-reto-innovaci%C3%B3n-para-la-adaptaci%C3%B3n-al-cambio-clim%C3%A1tico/
     date: '2023-12-15'
     awarder: Ministerio de Energía - Colombia
-    icon: "custom/Ministerio"
+    icon: "custom/AUIP"
     summary: |
       Ganadores del segundo lugar con el proyecto “Techos naturales y livianos con enfriamiento radiativo”, que propone la producción de tejas para viviendas rurales a partir de los residuos generados por cultivos de plátano, yuca y maíz en el municipio de Turbaná (Bolívar). El diseño de estas tejas permite disipar el calor de manera pasiva en una zona de altas temperaturas, reduciendo la temperatura interna de las viviendas hasta 7 grados centígrados. Esta solución permitiría reducir el consumo de energía eléctrica por el uso de ventiladores.
   -
+  --
 ---
 
 ## Sobre mí
