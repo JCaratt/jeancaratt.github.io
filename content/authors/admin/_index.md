@@ -127,8 +127,6 @@ awards:
     icon: "custom/AUIP"
     summary: |
       Ganadores del segundo lugar con el proyecto “Techos naturales y livianos con enfriamiento radiativo”, que propone la producción de tejas para viviendas rurales a partir de los residuos generados por cultivos de plátano, yuca y maíz en el municipio de Turbaná (Bolívar). El diseño de estas tejas permite disipar el calor de manera pasiva en una zona de altas temperaturas, reduciendo la temperatura interna de las viviendas hasta 7 grados centígrados. Esta solución permitiría reducir el consumo de energía eléctrica por el uso de ventiladores.
-  -
-  --
 ---
 
 ## Sobre mí
