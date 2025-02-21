@@ -73,39 +73,39 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 80
+        percent: 60
         icon: code-bracket
-      - name: Data Science
+      - name: Matlab
         description: ''
-        percent: 100
+        percent: 85
         icon: chart-bar
-      - name: SQL
+      - name: Ansys Fluent
         description: ''
-        percent: 40
+        percent: 90
         icon: circle-stack
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Senderismo
         description: ''
         percent: 60
         icon: person-simple-walk
-      - name: Cats
+      - name: Viajes
         description: ''
         percent: 100
         icon: cat
-      - name: Photography
+      - name: Videojuegos
         description: ''
         percent: 80
         icon: camera
 
 languages:
-  - name: English
+  - name: Español
     percent: 100
-  - name: Chinese
+  - name: Inglés
     percent: 75
-  - name: Portuguese
+  - name: Francés
     percent: 25
 
 # Awards.
@@ -113,33 +113,23 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
+  - title: Beca AUIP Màster URV para estudiantes del Máster interuniversitario en Mecánica de Fluidos Computacional 
+    url: https://www.auip.org/es/becas-auip/2602
+    date: '2023-10-01'
+    awarder: AUIP
+    icon: "custom/AUIP"
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
+      La Beca AUIP Máster URV ofrece una oportunidad única para estudiantes del Máster Interuniversitario en Mecánica de Fluidos Computacional , un programa innovador centrado en el estudio avanzado de la dinámica de fluidos mediante técnicas computacionales. Esta beca, otorgada por la Asociación Universitaria Iberoamericana de Postgrado (AUIP), apoya a estudiantes destacados que deseen profundizar en este campo interdisciplinario, combinando principios de mecánica de fluidos, matemáticas aplicadas y simulación numérica. Durante el programa, los estudiantes adquieren competencias clave para modelar y resolver problemas complejos relacionados con flujos de fluidos, transferencia de calor y aplicaciones industriales. Además, el máster fomenta la colaboración internacional y proporciona acceso a recursos académicos de excelencia en universidades asociadas.
+  - title: Segundo lugar en el Reto de Innovación para la Adaptación al Cambio Climático
+    url: https://www.minenergia.gov.co/es/sala-de-prensa/noticias-index/conoce-los-ganadores-del-reto-innovaci%C3%B3n-para-la-adaptaci%C3%B3n-al-cambio-clim%C3%A1tico/
+    date: '2023-12-15'
+    awarder: Ministerio de Energía - Colombia
+    icon: "custom/Ministerio"
     summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
-    summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+      Ganadores del segundo lugar con el proyecto “Techos naturales y livianos con enfriamiento radiativo”, que propone la producción de tejas para viviendas rurales a partir de los residuos generados por cultivos de plátano, yuca y maíz en el municipio de Turbaná (Bolívar). El diseño de estas tejas permite disipar el calor de manera pasiva en una zona de altas temperaturas, reduciendo la temperatura interna de las viviendas hasta 7 grados centígrados. Esta solución permitiría reducir el consumo de energía eléctrica por el uso de ventiladores.
+  -
 ---
 
-## About Me
+## Sobre mí
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Ingeniero mecánico de la Universidad del Atlántico, Magíster en Mecánica de Fluidos Computacional de la Universitat Rovira I Virgili y maestrante en Dirección de Procesos Estratégicos de la Universidad Internacional de la Rioja. He participado en proyectos de innovación y fortalecimiento empresarial en la costa caribe, apoyando actividades dedicadas a la formulación de tecnologías y desarrollo de prototipos.
